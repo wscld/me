@@ -23,7 +23,18 @@ const Home = () => {
         <>
             <Header></Header>
             <Container>
-                <Link>Github</Link> / <Link>Medium</Link> / <Link>Linkedin</Link > / <Link>Portfolio</Link>
+                <Link href='https://github.com/wscld' target='_blank'>
+                    Github
+                </Link> /
+                <Link href='https://medium.com/@wscld' target='_blank'>
+                    Medium
+                </Link> /
+                <Link href='https://linkedin.com/in/wscld' target='_blank'>
+                    Linkedin
+                </Link > /
+                <Link href='https://wscld.github.io/portfolio/' target='_blank'>
+                    Portfolio
+                </Link>
             </Container>
 
             <Container>

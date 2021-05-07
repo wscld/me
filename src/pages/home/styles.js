@@ -35,6 +35,7 @@ export const Link = styled.a`
     margin:10px;
     transition:.2s;
     cursor: pointer;
+    text-decoration:none;
     &:hover{
         border-bottom:1px dashed #1abc9c;
     }
