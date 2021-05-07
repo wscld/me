@@ -47,7 +47,7 @@ const Home = () => {
             <Container>
                 <List>
                     <Title>💻 Repositorios ({repos.length})</Title>
-                    {repos.map((repo, i) => (<ListItem title={repo.name} link={repo.url} key={i}></ListItem>))}
+                    {repos.map((repo, i) => (<ListItem title={repo.name} link={repo.html_url} key={i}></ListItem>))}
                 </List>
             </Container>
         </>
