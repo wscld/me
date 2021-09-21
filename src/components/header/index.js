@@ -14,7 +14,7 @@ const Header = () => {
         <Container>
             <Image src={image} />
             <Title>Wesley Caldas</Title>
-            <Subtitle>🧑🏻‍💻 Desenvolvedor Frontend</Subtitle>
+            <Subtitle>🧑🏻‍💻 Desenvolvedor Front-End / Mobile (Angular | Typescript | JS | React Native)</Subtitle>
         </Container>
     )
 }
