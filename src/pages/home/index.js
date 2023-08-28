@@ -32,9 +32,6 @@ const Home = () => {
                 <Link href='https://linkedin.com/in/wscld' target='_blank'>
                     Linkedin
                 </Link > /
-                <Link href='https://wscld.github.io/portfolio/' target='_blank'>
-                    Portfolio
-                </Link>
             </Container>
 
             <Container>
